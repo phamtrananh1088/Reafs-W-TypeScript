@@ -1,0 +1,2 @@
+npm install vuex@next
+npm i vue-router@next
